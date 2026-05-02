@@ -1,0 +1,242 @@
+--2026-05-02 20:37:34--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/wild-ambition-index.htm
+Resolving web.archive.org (web.archive.org)... 207.241.237.3
+Connecting to web.archive.org (web.archive.org)|207.241.237.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5545 (5.4K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/wild-ambition-index.htm’
+
+     0K .....                                                 100% 1.29G=0s
+
+2026-05-02 20:37:36 (1.29 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/wild-ambition-index.htm’ saved [5545/5545]
+
+--2026-05-02 20:37:37--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/kabe_wa.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20130711101649id_/http://www.neogeo.co.jp/garou/wild_ambition/kabe_wa.gif [following]
+--2026-05-02 20:37:39--  https://web.archive.org/web/20130711101649id_/http://www.neogeo.co.jp/garou/wild_ambition/kabe_wa.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-02 20:37:41 ERROR 404: Not Found.
+
+--2026-05-02 20:37:41--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/title.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702040753id_/http://www.neogeo.co.jp/garou/wild_ambition/title.gif [following]
+--2026-05-02 20:37:45--  https://web.archive.org/web/20010702040753id_/http://www.neogeo.co.jp/garou/wild_ambition/title.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39210 (38K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/title.gif’
+
+     0K .......... .......... .......... ........             100%  256M=0s
+
+2026-05-02 20:37:47 (256 MB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/title.gif’ saved [39210/39210]
+
+--2026-05-02 20:37:48--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/mild/mild_index.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715002554id_/http://www.neogeo.co.jp/garou/wild_ambition/mild/mild_index.htm [following]
+--2026-05-02 20:37:50--  https://web.archive.org/web/20010715002554id_/http://www.neogeo.co.jp/garou/wild_ambition/mild/mild_index.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9573 (9.3K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/mild/mild_index.htm’
+
+     0K .........                                             100% 1.27G=0s
+
+2026-05-02 20:37:51 (1.27 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/mild/mild_index.htm’ saved [9573/9573]
+
+--2026-05-02 20:37:52--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ps_garo.jpg
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702040601id_/http://www.neogeo.co.jp/garou/wild_ambition/ps_garo.jpg [following]
+--2026-05-02 20:37:53--  https://web.archive.org/web/20010702040601id_/http://www.neogeo.co.jp/garou/wild_ambition/ps_garo.jpg
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23051 (23K) [image/jpeg]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ps_garo.jpg’
+
+     0K .......... .......... ..                              100% 11.9M=0.002s
+
+2026-05-02 20:37:54 (11.9 MB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ps_garo.jpg’ saved [23051/23051]
+
+--2026-05-02 20:37:55--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ani_war.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702071148id_/http://www.neogeo.co.jp/garou/wild_ambition/ani_war.gif [following]
+--2026-05-02 20:37:56--  https://web.archive.org/web/20010702071148id_/http://www.neogeo.co.jp/garou/wild_ambition/ani_war.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10926 (11K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ani_war.gif’
+
+     0K ..........                                            100% 10.2G=0s
+
+2026-05-02 20:37:59 (10.2 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ani_war.gif’ saved [10926/10926]
+
+--2026-05-02 20:38:00--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/rireki/rireki.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20130727024513id_/http://www.neogeo.co.jp/garou/wild_ambition/rireki/rireki.htm [following]
+--2026-05-02 20:38:01--  https://web.archive.org/web/20130727024513id_/http://www.neogeo.co.jp/garou/wild_ambition/rireki/rireki.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-02 20:38:02 ERROR 404: Not Found.
+
+--2026-05-02 20:38:03--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/garo64-m.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702072457id_/http://www.neogeo.co.jp/garou/wild_ambition/garo64-m.gif [following]
+--2026-05-02 20:38:05--  https://web.archive.org/web/20010702072457id_/http://www.neogeo.co.jp/garou/wild_ambition/garo64-m.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47093 (46K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/garo64-m.gif’
+
+     0K .......... .......... .......... .......... .....     100%  277K=0.2s
+
+2026-05-02 20:38:06 (277 KB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/garo64-m.gif’ saved [47093/47093]
+
+--2026-05-02 20:38:07--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/game-gaiyou/game-gaiyou.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715001647id_/http://www.neogeo.co.jp/garou/wild_ambition/game-gaiyou/game-gaiyou.htm [following]
+--2026-05-02 20:38:08--  https://web.archive.org/web/20010715001647id_/http://www.neogeo.co.jp/garou/wild_ambition/game-gaiyou/game-gaiyou.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2106 (2.1K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/game-gaiyou/game-gaiyou.htm’
+
+     0K ..                                                    100% 1.96G=0s
+
+2026-05-02 20:38:10 (1.96 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/game-gaiyou/game-gaiyou.htm’ saved [2106/2106]
+
+--2026-05-02 20:38:10--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-gamegaiyou.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702032255id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-gamegaiyou.gif [following]
+--2026-05-02 20:38:11--  https://web.archive.org/web/20010702032255id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-gamegaiyou.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3581 (3.5K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-gamegaiyou.gif’
+
+     0K ...                                                   100% 1.67G=0s
+
+2026-05-02 20:38:14 (1.67 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-gamegaiyou.gif’ saved [3581/3581]
+
+--2026-05-02 20:38:14--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/kihonsousahouhou/kihonsousahouhou.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715002345id_/http://www.neogeo.co.jp/garou/wild_ambition/kihonsousahouhou/kihonsousahouhou.htm [following]
+--2026-05-02 20:38:15--  https://web.archive.org/web/20010715002345id_/http://www.neogeo.co.jp/garou/wild_ambition/kihonsousahouhou/kihonsousahouhou.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6377 (6.2K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/kihonsousahouhou/kihonsousahouhou.htm’
+
+     0K ......                                                100% 5.94G=0s
+
+2026-05-02 20:38:16 (5.94 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/kihonsousahouhou/kihonsousahouhou.htm’ saved [6377/6377]
+
+--2026-05-02 20:38:16--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kihonsousahouhou.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702034429id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kihonsousahouhou.gif [following]
+--2026-05-02 20:38:18--  https://web.archive.org/web/20010702034429id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kihonsousahouhou.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4304 (4.2K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-kihonsousahouhou.gif’
+
+     0K ....                                                  100% 4.01G=0s
+
+2026-05-02 20:38:19 (4.01 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-kihonsousahouhou.gif’ saved [4304/4304]
+
+--2026-05-02 20:38:20--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/hissatsuwaza/hissatsuwaza.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715002324id_/http://www.neogeo.co.jp/garou/wild_ambition/hissatsuwaza/hissatsuwaza.htm [following]
+--2026-05-02 20:38:21--  https://web.archive.org/web/20010715002324id_/http://www.neogeo.co.jp/garou/wild_ambition/hissatsuwaza/hissatsuwaza.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6241 (6.1K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/hissatsuwaza/hissatsuwaza.htm’
+
+     0K ......                                                100% 5.81G=0s
+
+2026-05-02 20:38:23 (5.81 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/hissatsuwaza/hissatsuwaza.htm’ saved [6241/6241]
+
+--2026-05-02 20:38:23--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-hissatsuwaza.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702033606id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-hissatsuwaza.gif [following]
+--2026-05-02 20:38:25--  https://web.archive.org/web/20010702033606id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-hissatsuwaza.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3433 (3.4K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-hissatsuwaza.gif’
+
+     0K ...                                                   100% 1.07G=0s
+
+2026-05-02 20:38:28 (1.07 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-hissatsuwaza.gif’ saved [3433/3433]
+
+--2026-05-02 20:38:28--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/chara-select/chara-select.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715001709id_/http://www.neogeo.co.jp/garou/wild_ambition/chara-select/chara-select.htm [following]
+--2026-05-02 20:38:30--  https://web.archive.org/web/20010715001709id_/http://www.neogeo.co.jp/garou/wild_ambition/chara-select/chara-select.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4884 (4.8K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/chara-select/chara-select.htm’
+
+     0K ....                                                  100% 2.27G=0s
+
+2026-05-02 20:38:31 (2.27 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/chara-select/chara-select.htm’ saved [4884/4884]
+
+--2026-05-02 20:38:32--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-chara.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702073108id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-chara.gif [following]
+--2026-05-02 20:38:33--  https://web.archive.org/web/20010702073108id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-chara.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3125 (3.1K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-chara.gif’
+
+     0K ...                                                   100% 2.91G=0s
+
+2026-05-02 20:38:34 (2.91 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-chara.gif’ saved [3125/3125]
+
+--2026-05-02 20:38:35--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/kyoutsu/kyoutsu.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010715002539id_/http://www.neogeo.co.jp/garou/wild_ambition/kyoutsu/kyoutsu.htm [following]
+--2026-05-02 20:38:36--  https://web.archive.org/web/20010715002539id_/http://www.neogeo.co.jp/garou/wild_ambition/kyoutsu/kyoutsu.htm
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5470 (5.3K) [text/html]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/kyoutsu/kyoutsu.htm’
+
+     0K .....                                                 100% 5.09G=0s
+
+2026-05-02 20:38:45 (5.09 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/kyoutsu/kyoutsu.htm’ saved [5470/5470]
+
+--2026-05-02 20:38:45--  https://web.archive.org/web/20010628112716id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kyoutuukonbine-shon.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 302 FOUND
+Location: https://web.archive.org/web/20010702035210id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kyoutuukonbine-shon.gif [following]
+--2026-05-02 20:38:47--  https://web.archive.org/web/20010702035210id_/http://www.neogeo.co.jp/garou/wild_ambition/ji-kyoutuukonbine-shon.gif
+Reusing existing connection to web.archive.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4279 (4.2K) [image/gif]
+Saving to: ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-kyoutuukonbine-shon.gif’
+
+     0K ....                                                  100% 3.99G=0s
+
+2026-05-02 20:38:48 (3.99 GB/s) - ‘/Users/paulomanrique/Code/fgcmirror/sites/fatal-fury-wild-ambition/.cache/wget/web/20010628112716id_/http:/www.neogeo.co.jp/garou/wild_ambition/ji-kyoutuukonbine-shon.gif’ saved [4279/4279]
+
+FINISHED --2026-05-02 20:38:48--
+Total wall clock time: 1m 14s
+Downloaded: 16 files, 175K in 0.2s (1.02 MB/s)
